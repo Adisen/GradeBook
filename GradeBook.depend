@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525879145 source:/home/israel/Documents/Codes/GradeBook/main.cpp
+	<iostream>
+	<string>
+	"GradeBook.h"
+
+1526468734 /home/israel/Documents/Codes/GradeBook/include/GradeBook.h
+	<iostream>
+	<string>
+
+1526593404 source:/home/israel/Documents/Codes/GradeBook/src/GradeBook.cpp
+	<iostream>
+	<iomanip>
+	"GradeBook.h"
+
